@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd" version="6.28.0" timestamp="2020-10-19T14:55:10.731">
+<file name="src/main/java/ec/edu/espol/workshops/second/CarInsurance.java">
+<violation beginline="3" endline="47" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="3" endline="47" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="4" endline="4" begincolumn="0" endcolumn="0" rule="BeanMembersShouldSerialize" ruleset="Error Prone" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_errorprone.html#beanmembersshouldserialize" priority="3">
+BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+</violation>
+<violation beginline="4" endline="4" begincolumn="0" endcolumn="0" rule="BeanMembersShouldSerialize" ruleset="Error Prone" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_errorprone.html#beanmembersshouldserialize" priority="3">
+BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+</violation>
+<violation beginline="4" endline="4" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="4" endline="4" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="5" endline="5" begincolumn="0" endcolumn="0" rule="BeanMembersShouldSerialize" ruleset="Error Prone" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_errorprone.html#beanmembersshouldserialize" priority="3">
+BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+</violation>
+<violation beginline="5" endline="5" begincolumn="0" endcolumn="0" rule="BeanMembersShouldSerialize" ruleset="Error Prone" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_errorprone.html#beanmembersshouldserialize" priority="3">
+BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+</violation>
+<violation beginline="5" endline="5" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="5" endline="5" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="6" endline="6" begincolumn="0" endcolumn="0" rule="BeanMembersShouldSerialize" ruleset="Error Prone" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_errorprone.html#beanmembersshouldserialize" priority="3">
+BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+</violation>
+<violation beginline="6" endline="6" begincolumn="0" endcolumn="0" rule="BeanMembersShouldSerialize" ruleset="Error Prone" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_errorprone.html#beanmembersshouldserialize" priority="3">
+BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+</violation>
+<violation beginline="6" endline="6" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="6" endline="6" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="7" endline="7" begincolumn="0" endcolumn="0" rule="BeanMembersShouldSerialize" ruleset="Error Prone" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_errorprone.html#beanmembersshouldserialize" priority="3">
+BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+</violation>
+<violation beginline="7" endline="7" begincolumn="0" endcolumn="0" rule="BeanMembersShouldSerialize" ruleset="Error Prone" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_errorprone.html#beanmembersshouldserialize" priority="3">
+BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+</violation>
+<violation beginline="7" endline="7" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="7" endline="7" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="7" endline="7" begincolumn="0" endcolumn="0" rule="ImmutableField" ruleset="Design" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_design.html#immutablefield" priority="3">
+ImmutableField: Private field 'base' could be made final; it is only initialized in the declaration or constructor.
+</violation>
+<violation beginline="7" endline="7" begincolumn="0" endcolumn="0" rule="ImmutableField" ruleset="Design" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_design.html#immutablefield" priority="3">
+ImmutableField: Private field 'base' could be made final; it is only initialized in the declaration or constructor.
+</violation>
+<violation beginline="8" endline="8" begincolumn="0" endcolumn="0" rule="BeanMembersShouldSerialize" ruleset="Error Prone" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_errorprone.html#beanmembersshouldserialize" priority="3">
+BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+</violation>
+<violation beginline="8" endline="8" begincolumn="0" endcolumn="0" rule="BeanMembersShouldSerialize" ruleset="Error Prone" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_errorprone.html#beanmembersshouldserialize" priority="3">
+BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+</violation>
+<violation beginline="8" endline="8" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="8" endline="8" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="15" endline="15" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="15" endline="15" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="23" endline="23" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="23" endline="23" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="29" endline="29" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="29" endline="29" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="34" endline="43" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="34" endline="43" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="44" endline="46" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="44" endline="46" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+</file>
+<file name="src/main/java/ec/edu/espol/workshops/second/Library.java">
+<violation beginline="6" endline="10" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="Library" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="6" endline="10" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="Library" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="7" endline="9" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="Library" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="7" endline="9" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="Library" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+</file>
+<file name="src/test/java/ec/edu/espol/workshops/second/LibraryTest.java">
+<violation beginline="9" endline="14" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="LibraryTest" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="9" endline="14" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="LibraryTest" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="10" endline="13" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="LibraryTest" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="10" endline="13" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="LibraryTest" externalInfoUrl="https://pmd.github.io/pmd-6.28.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+</file>
+</pmd>
