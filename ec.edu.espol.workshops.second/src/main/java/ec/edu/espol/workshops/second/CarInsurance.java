@@ -4,7 +4,7 @@ public class CarInsurance {
 	private char Gen;
 	private char Marry;
 	private int Age;
-	private int base = 500;
+	private int base = 600;
 	private int premium;
 	
 	public void setGen(char gen) {
